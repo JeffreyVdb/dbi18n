@@ -1,0 +1,17 @@
+{
+    "name": "jeffrey/dbi18n",
+    "description": "Database internationalization",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jeffrey Vandenborne",
+            "email": "vandenbornejeffrey@gmail.com"
+        }
+    ],
+    "autoload": {
+	"psr-4": {
+	    "JeffreyVdb\\DbI18n\\": "src/"
+	}
+    },
+    "require": {}
+}
